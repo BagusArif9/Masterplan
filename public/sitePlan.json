@@ -1,0 +1,21 @@
+[
+  { "letter": "A", "description": "PARKING" },
+  { "letter": "B", "description": "OUTDOOR MARKET" },
+  { "letter": "C", "description": "RESTAURANT" },
+  { "letter": "D", "description": "KICTHEN" },
+  { "letter": "E", "description": "TOILET" },
+  { "letter": "F", "description": "MULTIPURPOSE ROOM" },
+  { "letter": "G", "description": "OUTDOOR RESTAURANT" },
+  { "letter": "H", "description": "MUSHOLLA" },
+  { "letter": "I", "description": "LOBBY" },
+  { "letter": "J", "description": "TIC" },
+  { "letter": "K", "description": "AMPHITHEATER" },
+  { "letter": "L", "description": "SOUVERNIR SHOP" },
+  { "letter": "M", "description": "COMMUNITY MARKET" },
+  { "letter": "N", "description": "LOADING AREA" },
+  { "letter": "O", "description": "WAREHOUSE" },
+  { "letter": "P", "description": "PICNIC AREA"},
+  { "letter": "Q", "description": "GREENHOUSE AREA" },
+  { "letter": "R", "description": "PATHWAY" },
+  { "letter": "S", "description": "ENTRANCE" }
+]

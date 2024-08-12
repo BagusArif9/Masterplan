@@ -1,0 +1,27 @@
+[
+    {
+      "id": "Pintu Masuk dan Informasi",
+      "details": "1. Entrance 2. Parking Area 3. Lobby 4. Information Center"
+    },
+    {
+      "id": "Produksi Pertanian",
+      "details": "1. Lahan Pertanian 2. Gudang Penyimpanan"
+    },
+    {
+      "id": "Edukasi dan Wisata",
+      "details": "1. Green house"
+    },
+    {
+      "id": "Rekreasi",
+      "details": "1. Picnic Area 2. Viewing Deck"
+    },
+    {
+      "id": "Pemberdayaan Komunitas",
+      "details": "1. Pasar Tani 2. Pusat Oleh-Oleh"
+    },
+    {
+      "id": "Fasilitas Penunjang",
+      "details": "1. Restaurant 2. Toilet Umum 3. Musholla"
+    }
+  ]
+  

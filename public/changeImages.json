@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "heading": "Market Place",
+    "image": "/images/INTERIOR_MARKET_1.svg",
+    "desc": "Pasar ini memungkinkan petani lokal untuk menjual langsung hasil panennya kepada warga dan wisatawan. Dirancang dengan open layout, pasar ini menciptakan interaksi yang lebih dekat antara penjual dan pembeli, sambil memberikan suasana belanja yang segar dan alami."
+  },
+  {
+    "id": 2,
+    "heading": "Restaurant",
+    "image": "/images/RESTAURANT_1.svg",
+    "desc": "Restoran yang menyajikan makanan lokal, ideal untuk keluarga dan teman yang ingin bersantai sambil menikmati pemandangan alam Desa Mejing, termasuk sawah dan perbukitan yang memanjakan mata."
+  },
+  {
+    "id": 3,
+    "heading": "Sawung",
+    "image": "/images/OUTDOOR_RESTAURANT_1.svg",
+    "desc": "Gazebo terbuka yang dirancang sebagai tempat berkumpul dan bersantai, memberikan kesempatan kepada pengunjung untuk menikmati pemandangan sawah dan menghirup udara segar."
+  },
+  {
+    "id": 4,
+    "heading": "Greenhouse",
+    "image": "/images/INTERIOR_GREENHOUSE_1.svg",
+    "desc": "Rumah kaca yang memamerkan berbagai jenis tanaman, tempat pengunjung bisa belajar tentang hortikultura dan menikmati keindahan alam dalam lingkungan yang terkendali."
+  },
+  {
+    "id": 5,
+    "heading": "Amphitheater",
+    "image": "/images/OUTDOOR_AMPHITHEATER_2.svg",
+    "desc": "Tempat berkumpul yang fleksibel di mana pengunjung dapat duduk dan bercengkerama, sambil menikmati suasana alam dan acara-acara budaya yang mungkin digelar di sana."
+  }
+]

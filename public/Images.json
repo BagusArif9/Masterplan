@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image": "/images/INTERIOR_GREENHOUSE_1.svg",
+    "desc": "Rumah Kaca"
+  },
+  {
+    "id": 2,
+    "image": "/images/MULTIPURPOSE_ROOM_1.svg",
+    "desc": "Ruang Serbaguna"
+  },
+  {
+    "id": 3,
+    "image": "/images/OUTDOOR_CORRIDOR_1.svg",
+    "desc": "Koridor Luar"
+  },
+  {
+    "id": 4,
+    "image": "/images/EKSTERIOR_COMMUNITY_MARKET_2.svg",
+    "desc": "Pasar Komunitas"
+  },
+  {
+    "id": 5,
+    "image": "/images/RESTAURANT_2.svg",
+    "desc": "Restoran"
+  },
+  {
+    "id": 6,
+    "image": "/images/AERIAL.svg",
+    "desc": "Aerial"
+  },
+  {
+    "id": 7,
+    "image": "/images/OUTDOOR_RESTAURANT_1.svg",
+    "desc": "Sawung"
+  },
+  {
+    "id": 8,
+    "image": "/images/INTERIOR_MARKET_1.svg",
+    "desc": "Interior Pasar"
+  },
+  {
+    "id": 9,
+    "image": "/images/MEJING_SIGNAGE.svg",
+    "desc": "Mejing Talun"
+  },
+  {
+    "id": 10,
+    "image": "/images/MULTIPURPOSE_ROOM_2.svg",
+    "desc": "Ruang Serbaguna"
+  },
+  {
+    "id": 11,
+    "image": "/images/OUTDOOR_AMPHITHEATER_2.svg",
+    "desc": "Amphitheater"
+  },
+  {
+    "id": 12,
+    "image": "/images/RESTAURANT_1.svg",
+    "desc": "Restoran"
+  },
+  {
+    "id": 13,
+    "image": "/images/RESTAURANT_CORRIDOR_2.svg",
+    "desc": "Koridor Restoran"
+  },
+  {
+    "id": 14,
+    "image": "/images/INTERIOR_RESTAURANT_1.svg",
+    "desc": "Interior Restoran"
+  },
+  {
+    "id": 15,
+    "image": "/images/SITE_PLAN.svg",
+    "desc": "Denah Lokasi"
+  }
+]
