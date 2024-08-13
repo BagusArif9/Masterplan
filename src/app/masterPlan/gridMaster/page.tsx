@@ -13,7 +13,7 @@ function Grids() {
 
   useEffect(() => {
     async function fetchImages() {
-      const response = await fetch("/images.json");
+      const response = await fetch("/Images.json");
       const data: ImageData[] = await response.json();
       setImages(data);
     }
