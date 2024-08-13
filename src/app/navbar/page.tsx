@@ -60,7 +60,7 @@ const Navbar: React.FC = () => {
               </Button>
               <Menu>
                 <MenuButton as={Button} rightIcon={<ChevronDownIcon />}>
-                    Peta
+                    Pemetaan Area
                 </MenuButton>
                 <MenuList>
                   <MenuItem onClick={() => router.push("/peta/batasRencana")}>
@@ -73,7 +73,7 @@ const Navbar: React.FC = () => {
                     Peta Kontur Topografi Agrowisata
                   </MenuItem>
                   <MenuItem onClick={() => router.push("/peta/lahanExiating")}>
-                    Peta Lahan Exiating Agrowisata
+                    Peta Lahan Existing Agrowisata
                   </MenuItem>
                   <MenuItem onClick={() => router.push("/peta/rencanaPembangunan")}>
                     Peta Lahan Rencana Pembangunan Agrowisata

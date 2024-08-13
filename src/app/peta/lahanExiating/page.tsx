@@ -41,7 +41,7 @@ const LahanExiating: NextPage = () => {
       >
         <Box w="full" p={4} border="2px solid" borderColor="black">
           <Heading fontSize="2xl">
-            PETA PENGGUNAAN LAHAN <br /> EXIATING AGROWISATA <br /> MEJING
+            PETA PENGGUNAAN LAHAN <br /> EXISTING AGROWISATA <br /> MEJING
           </Heading>
           <Text fontSize="md" as="b">
             DUSUN MEJING, DESA DUREN, KECAMATAN BANDUNGAN, KABUPATEN SEMARANG
