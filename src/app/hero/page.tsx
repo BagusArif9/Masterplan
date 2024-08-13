@@ -18,7 +18,7 @@ function Hero() {
     <Flex
       filter="auto"
       brightness="95%"
-      bgImage={"/images/OUTDOOR_RESTAURANT_1.svg"}
+      bgImage={"/images/OUTDOOR_RESTAURANT_1.webp"}
       bgRepeat={"no-repeat"}
       bgSize={"cover"}
       mx={{ base: 4, md: 10, lg: 20 }}

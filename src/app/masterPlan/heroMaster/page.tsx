@@ -48,7 +48,7 @@ const HeroMaster: React.FC = () => {
           borderRadius={"2em 20px 2.5em 0.2in"}
         >
           <Image
-            src="/images/OUTDOOR_RESTAURANT_1.svg"
+            src="/images/OUTDOOR_RESTAURANT_1.webp"
             alt="Light Mode"
             position="absolute"
             top={0}

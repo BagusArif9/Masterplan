@@ -19,7 +19,7 @@ const RencanaPembangunan: NextPage = () => {
         mb={{ base: 8, md: 0 }}
       >
         <Image
-          src="/maps/pembangunan/rencanaPembangunan.svg"
+          src="/maps/pembangunan/rencanaPembangunan.webp"
           alt="Your Image"
           objectFit="contain"
           width="100%"

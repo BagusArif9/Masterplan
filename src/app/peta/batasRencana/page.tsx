@@ -19,7 +19,7 @@ const BatasRencana: NextPage = () => {
         mb={{ base: 8, md: 0 }}
       >
         <Image
-          src="/maps/batasPerencanaan/batasRencana.svg"
+          src="/maps/batasPerencanaan/batasRencana.webp"
           alt="Your Image"
           objectFit="contain"
           width="100%"

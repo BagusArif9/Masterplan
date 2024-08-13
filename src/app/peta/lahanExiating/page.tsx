@@ -19,7 +19,7 @@ const LahanExiating: NextPage = () => {
         mb={{ base: 8, md: 0 }}
       >
         <Image
-          src="/maps/existing/SVG_Existing.svg"
+          src="/maps/existing/SVG_Existing.webp"
           alt="Your Image"
           objectFit="contain"
           width="100%"

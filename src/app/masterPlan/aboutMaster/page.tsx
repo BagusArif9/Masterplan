@@ -27,7 +27,7 @@ const AboutMaster: React.FC = () => {
         alignItems="center"
       >
         <Image
-          src="/images/MULTIPURPOSE_ROOM_2.svg" // Make sure this path matches the uploaded image
+          src="/images/MULTIPURPOSE_ROOM_2.webp" // Make sure this path matches the uploaded image
           alt="Architecture"
           objectFit="cover"
           borderRadius={20}

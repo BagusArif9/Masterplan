@@ -19,7 +19,7 @@ const KonturTopografi: NextPage = () => {
         mb={{ base: 8, md: 0 }}
       >
         <Image
-          src="/maps/kontur/petaKontur.svg"
+          src="/maps/kontur/petaKontur.webp"
           alt="Your Image"
           objectFit="contain"
           width="100%"

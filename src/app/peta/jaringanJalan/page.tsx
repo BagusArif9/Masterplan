@@ -19,7 +19,7 @@ const BatasAgrowisata: NextPage = () => {
         mb={{ base: 8, md: 0 }}
       >
         <Image
-          src="/maps/jaringanJalan/jaringanJalan.svg"
+          src="/maps/jaringanJalan/jaringanJalan.webp"
           alt="Your Image"
           objectFit="contain"
           width="100%"
